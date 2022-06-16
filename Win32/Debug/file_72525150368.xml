@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<cadastro>
+  <Nome>MARCIO MELO DE ALENCAR</Nome>
+  <Identidade>227116392</Identidade>
+  <Cpf>72525150368</Cpf>
+  <Telefone>85985430564</Telefone>
+  <Email>marciomeloalencar@gmail.com</Email>
+  <endereco>
+    <cep>60831506</cep>
+    <Logradouro>Rua de Pedestre JCj Res Curió</Logradouro>
+    <Numero>teste</Numero>
+    <Complemento>Lagoa Redonda</Complemento>
+    <Bairro>Fortaleza</Bairro>
+    <Cidade>CE</Cidade>
+    <Pais>Brasil</Pais>
+  </endereco>
+</cadastro>
